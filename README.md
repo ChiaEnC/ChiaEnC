@@ -1,6 +1,6 @@
 # Hi There, I'm Vivian Chiang 🤗
 
-I'm software engineering working in Taipei, Taiwan.
+I'm software engineer working in Taipei, Taiwan.
 
 🏢 I'm currently working at IBM <br />
 🏫 About to begin my MEng in EECS at UC Berkeley in Fall of 2021! <br />
