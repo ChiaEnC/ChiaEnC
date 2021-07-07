@@ -1,6 +1,12 @@
-:star: Hi, I'm Vivian.
+# Hi There, I'm Vivian Chiang 🤗
 
-[![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+I'm software engineering working in Taipei, Taiwan.
+
+🏢 I'm currently working at IBM <br />
+🏫 About to begin my MEng in EECS at UC Berkeley in Fall of 2021! <br />
+🔨 I use daily: Python, Docker, Linux <br />
+🚀 I currently enage in DAKODATA - a data automization analysis project. <br />
+🌱 Non stop learning anything about Open Source (EFK, Kafka, prometheus...) <br />
+
+[![](https://raw.githubusercontent.com/ChiaEnC/ChiaEnC/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
