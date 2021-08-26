@@ -1,6 +1,6 @@
 # Hi There, I'm Vivian Chiang 🤗
 
-I'm software engineer based in Berkeley, California.
+I'm a software engineer based in Berkeley, California.
 
 🏫 I'm currently studying under EECS Meng Program at UC Berkeley in Fall of 2021! <br />
 🔨 I use daily: Python, Docker, Linux <br />
